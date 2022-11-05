@@ -1,2 +1,7 @@
 # api-node-com-solid
-Esta API está sendo feita a partir do tutorial da rocketseat, o Code/Drops #44
+
+Api feita para aprendizado. 
+
+
+Aplicação simples de todo list -> campos: nome da pessoa e tarefa
+
